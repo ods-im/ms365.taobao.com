@@ -11,9 +11,9 @@ type: page
 
 # 远程控制
 
-[RUSTDESK下载](http://gitee.com/rustdesk/rustdesk/attach_files/815641/download/rustdesk-1.1.8-windows_x64-portable.zip) :解压双击即可，无需安装！
+* [RUSTDESK下载](http://gitee.com/rustdesk/rustdesk/attach_files/815641/download/rustdesk-1.1.8-windows_x64-portable.zip) :解压双击即可，无需安装！
 
-[RUSTDESK官网](http://rustdesk.com/zh/)
+* [RUSTDESK官网](http://rustdesk.com/zh/)
 
 # 简介 
 
@@ -27,7 +27,7 @@ Office365账号：可长期作为主账号使用，5T网盘，独立账号，长
 
 # 激活软件提取码解压缩密码  
 
-**购买地址：点击左上角“网络激活大师“即可**
+**购买地址：点击左上角“[网络激活大师](https://ms365.taobao.com)“即可**
 
 # 下载
 
