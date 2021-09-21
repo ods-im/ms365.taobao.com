@@ -38,6 +38,10 @@ Office365账号：可长期作为主账号使用，5T网盘，独立账号，长
 ## CAD 注册机
 
 ### CAD 注册机下载
+[X-force AutoCAD 原版注册机2008](https://ods.lanzoui.com/iVMVNtzl0yj) 
+
+[X-force AutoCAD 原版注册机2009](https://ods.lanzoui.com/iJGTYtzljkj)
+
 [X-force AutoCAD 原版注册机2010](https://ods.lanzoui.com/iVMVNtzl0yj) 
 
 [X-force AutoCAD 原版注册机2011](https://ods.lanzoui.com/iJGTYtzljkj)
@@ -59,6 +63,8 @@ Office365账号：可长期作为主账号使用，5T网盘，独立账号，长
 [X-force AutoCAD 原版注册机2019](https://ods.lanzoui.com/io5CQtzkyzi)
 
 [X-force AutoCAD 原版注册机2020](https://ods.lanzoui.com/iaCZztzkzcb)
+
+[X-force AutoCAD 原版注册机2021](https://ods.lanzoui.com/iOhUhtzl0sd)
 
 [X-force AutoCAD 原版注册机2022](https://ods.lanzoui.com/iOhUhtzl0sd)
 
